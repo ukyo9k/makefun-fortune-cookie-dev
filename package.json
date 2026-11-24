@@ -1,0 +1,1 @@
+{"description":"One original line of fortune-cookie wisdom for a software developer, for make.fun's Fortune Cookie Wisdom for Developers bounty","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-fortune-cookie-dev","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
